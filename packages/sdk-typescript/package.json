@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "ethers": "^6.0.0",
-    "axios": "^1.0.0"
+    "axios": "^1.18.0"
   }
 }

@@ -13,7 +13,7 @@
     "@radix-ui/react-progress": "^1.1.8",
     "@radix-ui/react-switch": "^1.2.6",
     "@tanstack/react-query": "^5.90.21",
-    "next": "16.1.6",
+    "next": "16.2.11",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "viem": "^2.46.3",
